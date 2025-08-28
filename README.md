@@ -1,12 +1,21 @@
-# React + Vite
+A simple and fun Stone-Paper-Scissor game built with React and Tailwind CSS. The player competes against the computer, which randomly chooses between stone, paper, and scissor.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-✨ Features
 
-Currently, two official plugins are available:
+🎮 Play against the computer with random choices
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🏆 Instant winner declaration (You / Computer / Draw)
 
-## Expanding the ESLint configuration
+🖼️ Dynamic UI that displays player & computer choices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Styled using Tailwind CSS for a clean, responsive design
+
+🔄 Reset / Play again functionality
+
+-🚀 Tech Stack
+
+React – UI & state management
+
+Tailwind CSS – Styling
+
+Vite – Development setup
